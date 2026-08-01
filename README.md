@@ -12,7 +12,7 @@
 <p align="center">
   <a href="mailto:jagathsrujan22@gmail.com">Email</a>
   · <a href="https://github.com/jagathsrujan">GitHub</a>
-  <!-- Add your LinkedIn and existing GitHub Pages URL before publishing. -->
+  · <a href="https://jagathsrujan.github.io/jagath-srujan/">Portfolio</a>
 </p>
 
 <hr>
@@ -104,8 +104,7 @@ For mechanical product design, CAD, hardware research, or engineering collaborat
 
 **Email:** [jagathsrujan22@gmail.com](mailto:jagathsrujan22@gmail.com)  
 **GitHub:** [@jagathsrujan](https://github.com/jagathsrujan)  
-**LinkedIn:** _add profile URL before publishing_  
-**Portfolio:** _keep the existing GitHub Pages URL unchanged and add its link before publishing_
+**Portfolio:** [jagathsrujan.github.io/jagath-srujan](https://jagathsrujan.github.io/jagath-srujan/)
 
 <p align="center">
   <sub>Designed around evidence, iteration, and useful things that can survive contact with the real world.</sub>
