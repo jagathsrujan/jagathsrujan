@@ -12,6 +12,7 @@
 <p align="center">
   <a href="mailto:jagathsrujan22@gmail.com">Email</a>
   · <a href="https://github.com/jagathsrujan">GitHub</a>
+  · <a href="https://www.linkedin.com/in/jagath-srujan-057156359/">LinkedIn</a>
   · <a href="https://jagathsrujan.github.io/jagath-srujan/">Portfolio</a>
 </p>
 
@@ -104,6 +105,7 @@ For mechanical product design, CAD, hardware research, or engineering collaborat
 
 **Email:** [jagathsrujan22@gmail.com](mailto:jagathsrujan22@gmail.com)  
 **GitHub:** [@jagathsrujan](https://github.com/jagathsrujan)  
+**LinkedIn:** [linkedin.com/in/jagath-srujan-057156359](https://www.linkedin.com/in/jagath-srujan-057156359/)  
 **Portfolio:** [jagathsrujan.github.io/jagath-srujan](https://jagathsrujan.github.io/jagath-srujan/)
 
 <p align="center">
